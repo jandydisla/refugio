@@ -1,0 +1,49 @@
+# Superficies cálidas de terracota bajo la luz de la luna.
+[bar]
+background = "#1d1718"
+background-alpha = 1.0
+text = "#eee2d8"
+active = "#cf805c"
+
+[hyprland]
+active-border = "rgba(cf805cde)"
+active-border-foreground = "#cf805c"
+
+[controls]
+normal-color = "#2a2222"
+normal-fill-alpha = 1.0
+normal-border = "#725044"
+normal-border-width = 1
+normal-border-alpha = 0.65
+hover-cursor-color = "#cf805c"
+hover-cursor-fill-alpha = 0.10
+hover-cursor-border = "#e9bd78"
+hover-cursor-border-width = 2
+hover-cursor-border-alpha = 0.8
+focus-color = "#dc7158"
+focus-fill-alpha = 0.12
+focus-border = "#cf805c"
+focus-border-width = 2
+focus-border-alpha = 1.0
+selected-color = "#dc7158"
+selected-fill-alpha = 0.22
+selected-border = "#cf805c"
+selected-border-width = 1
+selected-border-alpha = 0.8
+pressed-fill-alpha = 0.25
+selection-fill-alpha = 0.35
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+
+[font]
+base-size = 11
+
+[popups]
+background = "#1d1718"
+background-alpha = 1.0
+text = "#eee2d8"
+border = "#cf805c"
+border-alpha = 1.0
+border-width = 2

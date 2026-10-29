@@ -1,0 +1,32 @@
+# Refugio: terracota de la cabaña bajo la luz de la luna.
+mode = "dark"
+
+accent = "#cf805c"
+selection = "#49312e"
+muted = "#ad8b7f"
+
+background = "#2a2222"
+dark_background = "#1d1718"
+darker_background = "#130f10"
+lighter_background = "#3a2d2b"
+
+foreground = "#eee2d8"
+dark_foreground = "#b9a89e"
+light_foreground = "#dbc9bd"
+bright_foreground = "#fff3e8"
+
+red = "#dc7158"
+yellow = "#e9bd78"
+orange = "#e98c59"
+green = "#9da17b"
+cyan = "#82aaa5"
+blue = "#899bb5"
+magenta = "#b88c96"
+brown = "#9a6a52"
+
+bright_red = "#f28e72"
+bright_yellow = "#f5d18f"
+bright_green = "#b7bd91"
+bright_cyan = "#a0cdc5"
+bright_blue = "#b0bfd8"
+bright_magenta = "#d2a5ad"
